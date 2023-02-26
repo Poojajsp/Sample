@@ -12,6 +12,7 @@ import org.openqa.selenium.support.FindBy;
 
 import io.opentelemetry.exporter.logging.SystemOutLogExporter;
 
+//commenting the code 2nd time
 public class tutorials_ninja {
 	
 	public static void currency(WebDriver driver) throws InterruptedException
